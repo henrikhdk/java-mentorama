@@ -1,9 +1,10 @@
 import java.util.Scanner;
-
+// Classe menu
 public class menu {
 
     public static void main(String[] args) {
         int opcao = 0;
+        // Árvore de seleção do menu em loop
         do {
             System.out.println("| MENU DE OPÇÕES:       |");
             System.out.println("|                       |");
